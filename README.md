@@ -4,6 +4,7 @@ This is a implementation of remote proxy. Where Bank class works as remote class
 # User Manual
 1. Run Bank project first. It starts the socket. [works as server]
 2. Run ATM project. [works as client]
+
 *1. If you are using eclipse then open 'Bank' in one eclipse process. or import 'Bank'.
 *2. then open 'ATM' in one eclipse process. or import 'ATM'.
 
